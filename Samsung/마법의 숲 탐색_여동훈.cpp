@@ -1,3 +1,5 @@
+// 주의 해야 했던점 : 데이터를 모두 변경 후 맵에 적용, 새로운 골렘이 추가 되면 길이 열릴 수 도 있기 때문에 탐색을 해야함.
+
 #include<iostream>
 #include<queue>
 #include<string.h>
