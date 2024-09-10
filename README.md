@@ -22,7 +22,7 @@ Algorithm문제를 풀고 코드 공유
 - 꼬리잡기놀이 (삼성 SW 역량테스트 2022 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=1&pageSize=20
 - 나무박멸 (삼성 SW 역량테스트 2022 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20
 
-<5주차> ~9월29일
+<4주차> ~9월22일
 -
 
 <6주차> ~10월6일
