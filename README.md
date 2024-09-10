@@ -17,9 +17,14 @@ Algorithm문제를 풀고 코드 공유
 - 싸움땅 (삼성 SW 역량테스트 2022 하반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=3&pageSize=5
 
 <4주차> ~9월22일
+- 술래잡기 (삼성 SW 역량테스트 2022 상반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=1&pageSize=20
+- 예술성 (삼성 SW 역량테스트 2022 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20
+- 꼬리잡기놀이 (삼성 SW 역량테스트 2022 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=1&pageSize=20
+- 나무박멸 (삼성 SW 역량테스트 2022 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20
 
-
-
+<5주차> ~9월29일
+<6주차> ~10월6일
+<7주차> ~10월11일
 <B형>
 - 색깔 트리 (삼성 SW 역량테스트 2024 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/color-tree/description?page=1&pageSize=5
 - 코드트리 투어 (삼성 SW 역량테스트 2024 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/codetree-tour/description?page=1&pageSize=5
