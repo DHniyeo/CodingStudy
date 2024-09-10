@@ -16,6 +16,9 @@ Algorithm문제를 풀고 코드 공유
 - 코드트리 빵 (삼성 SW 역량테스트 2022 하반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=3&pageSize=5
 - 싸움땅 (삼성 SW 역량테스트 2022 하반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=3&pageSize=5
 
+<4주차> ~9월22일
+
+
 
 <B형>
 - 색깔 트리 (삼성 SW 역량테스트 2024 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/color-tree/description?page=1&pageSize=5
