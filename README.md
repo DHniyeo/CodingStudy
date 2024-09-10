@@ -33,6 +33,7 @@ Algorithm문제를 풀고 코드 공유
 - 나무 타이쿤 (삼성 SW 역량테스트 2021 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon/description?page=2&pageSize=20
 - 색깔 폭탄 (삼성 SW 역량테스트 2021 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=2&pageSize=20
 - 놀이기구 탑승 (삼성 SW 역량테스트 2021 상반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20
+
 <B형>
 - 색깔 트리 (삼성 SW 역량테스트 2024 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/color-tree/description?page=1&pageSize=5
 - 코드트리 투어 (삼성 SW 역량테스트 2024 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/codetree-tour/description?page=1&pageSize=5
