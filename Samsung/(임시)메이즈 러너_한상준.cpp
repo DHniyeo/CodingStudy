@@ -180,7 +180,7 @@ int main() {
 					}
 				}
 
-				if (newY != y && newX != x) {
+				if (newY != y || newX != x) {
 					cnt++;
 					if (board[newY][newX] != -1)
 						board[newY][newX] = board[y][x];
@@ -204,6 +204,6 @@ int main() {
 	cout << exitY << " " << exitX;
 	
 
-
+////////////한칸에 여러명 있을수있어서 이렇게하면안됨 
 
 }
