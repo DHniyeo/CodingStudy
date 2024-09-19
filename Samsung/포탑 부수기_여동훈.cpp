@@ -64,7 +64,7 @@ bool find_dir(int start_idx, int end_idx, vector<vector<int>> & ParentY, vector<
 	int dx[] = { 1,0,-1,0 };
 	queue<q_info> q;
 	visited[vc[start_idx].r][vc[start_idx].c] = 1;
-	q.push({ vc[start_idx].r, vc[start_idx].c});
+	q.push({ vc[start_idx].r, vc[start_idx].c });
 
 	while (!q.empty()) {
 		q_info now = q.front(); q.pop();
@@ -83,7 +83,7 @@ bool find_dir(int start_idx, int end_idx, vector<vector<int>> & ParentY, vector<
 			if (visited[ny][nx] == 1) continue;
 			visited[ny][nx] = 1;
 			ParentY[ny][nx] = now.r;
-			ParentY[ny][nx] = now.c;
+			ParentX[ny][nx] = now.c;
 			q.push({ ny,nx });
 		}
 	}
@@ -97,7 +97,14 @@ void rayzer_attack(int start_idx, int end_idx, vector<vector<int>>& ParentY, vec
 	int nowy = ParentY[vc[end_idx].r][vc[end_idx].c];
 	int nowx = ParentX[vc[end_idx].r][vc[end_idx].c];
 	if (nowy == vc[start_idx].r && nowx == vc[start_idx].c) return;
-
+	for (int i = 0; i < vc.size(); i++) { // 벡터 데이터 최신화
+		vc_info now = vc[i];
+		if (now.r == nowy && now.c == nowx) {
+			vc[i].damage = damage_cal(vc[i].damage, damage / 2);
+			vc[i].not_repair = true;
+			break;
+		}
+	}
 	while (1) {
 		int ny = ParentY[nowy][nowx];
 		int nx = ParentX[nowy][nowx];
@@ -110,6 +117,8 @@ void rayzer_attack(int start_idx, int end_idx, vector<vector<int>>& ParentY, vec
 				break;
 			}
 		}
+		nowy = ny;
+		nowx = nx;
 	}
 
 }
@@ -198,6 +207,7 @@ int main() {
 		vc[attacker_idx].last_attack = t;
 		vc[attacker_idx].not_repair = true;
 
+
 		int defender_idx = 0;
 		for (int i = vc.size() - 1; i >= 0; i--) { // 피격자 선정
 			if (vc[i].damage == 0) continue;
@@ -206,7 +216,6 @@ int main() {
 		}
 		vc[defender_idx].not_repair = true;
 
-		
 		vector<vector<int>> parenty(N, vector<int>(M, 0));
 		vector<vector<int>> parentx(N, vector<int>(M, 0));
 		if (find_dir(attacker_idx, defender_idx, parenty, parentx)) { // 레이저 공격
