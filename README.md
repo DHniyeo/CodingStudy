@@ -10,19 +10,19 @@ Algorithm문제를 풀고 코드 공유
 - 고대 문명 유적 탐사 (삼성 SW 역량테스트 2024 상반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/ancient-ruin-exploration?page=1&pageSize=20 (solved)
 - 마법의숲 탐색 (삼성 SW 역량테스트 2024 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/magical-forest-exploration/description?page=1&pageSize=20 (solved)
 
-<3주차> ~9월18일
+<3주차> ~9월22일
 - 포탑 부수기 (삼성 SW 역량테스트 2023 상반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=1&pageSize=20
 - 메이즈 러너 (삼성 SW 역량테스트 2023 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner?page=1&pageSize=20
 - 코드트리 빵 (삼성 SW 역량테스트 2022 하반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=3&pageSize=5
 - 싸움땅 (삼성 SW 역량테스트 2022 하반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=3&pageSize=5
 
-<4주차> ~9월22일
+<4주차> ~9월29일
 - 술래잡기 (삼성 SW 역량테스트 2022 상반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=1&pageSize=20
 - 예술성 (삼성 SW 역량테스트 2022 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20
 - 꼬리잡기놀이 (삼성 SW 역량테스트 2022 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=1&pageSize=20
 - 나무박멸 (삼성 SW 역량테스트 2022 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20
 
-<5주차> ~9월29일
+<5주차> ~10월6일
 - Sam의 피자학교 (삼성 SW 역량테스트 2021 하반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/sam-pizza-school/description?page=2&pageSize=20
 - 팩맨 (삼성 SW 역량테스트 2021 하반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=2&pageSize=20
 - 냉방 시스템 (삼성 SW 역량테스트 2021 하반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/cooling-system/description?page=2&pageSize=20
