@@ -1,3 +1,4 @@
+// n이 매우 작아서 매번 맵을 만들어도 됨
 #include<iostream>
 #include<vector>
 #include<queue>
