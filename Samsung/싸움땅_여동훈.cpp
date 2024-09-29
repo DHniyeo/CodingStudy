@@ -1,3 +1,5 @@
+// 실수한 부분 : 총을 내림차순으로 정렬, 총을 버리고 벡터에 저장된 gun값을 초기화 안시켰음.
+
 #include<iostream>
 #include<vector>
 #include<queue>
