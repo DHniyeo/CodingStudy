@@ -33,6 +33,22 @@ Algorithm문제를 풀고 코드 공유
 - 나무 타이쿤 (삼성 SW 역량테스트 2021 상반기 오후 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon/description?page=2&pageSize=20
 - 색깔 폭탄 (삼성 SW 역량테스트 2021 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=2&pageSize=20
 - 놀이기구 탑승 (삼성 SW 역량테스트 2021 상반기 오전 1번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20
+<백트레킹>
+- 술래잡기 체스 (삼성 SW 역량테스트 2020 상반기 오전 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/odd-chess2/description?page=1&pageSize=20&tags=Backtracking
+- 윷놀이 사기단 (삼성 SW 역량테스트 2019 하반기 오후 2번 문제) : 
+- 바이러스 백신 (삼성 SW 역량테스트 2019 상반기 오후 2번 문제) : 
+- 병원 거리 최소화하기 (삼성 SW 역량테스트 2018 상반기 오후 2번 문제) : 
+- 디버깅 (삼성 SW 역량테스트 2018 상반기 오전 2번 문제) : 
+- 이상한 체스 (삼성 SW 역량테스트 2018 상반기 오전 1번 문제) : 
+- 연산자 배치하기 (삼성 SW 역량테스트 2017 하반기 오후 2번 문제) : 
+- 조삼모사 (삼성 SW 역량테스트 2017 하반기 오전 1번 문제) : 
+- 방화벽 설치하기 (삼성 SW 역량테스트 2017 상반기 오후 2번 문제) : 
+- 외주 수익 최대화하기 (삼성 SW 역량테스트 2017 상반기 오전 2번 문제) : 
+- 2048 게임 (삼성 SW 역량테스트 2016 하반기 2번 문제) : 
+- 2개의 사탕 (삼성 SW 역량테스트 2015 하반기 2번 문제) :
+
+<그리디>
+- 바이러스 검사 (삼성 SW 역량테스트 2015 하반기 1번 문제) :
 
 <B형>
 - 색깔 트리 (삼성 SW 역량테스트 2024 상반기 오후 2번 문제) : https://www.codetree.ai/training-field/frequent-problems/problems/color-tree/description?page=1&pageSize=5
