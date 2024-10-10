@@ -1,4 +1,4 @@
-# CodingStudy ddd
+# CodingStudy
 Algorithm문제를 풀고 코드 공유
 
 <1주차> ~9월1일
